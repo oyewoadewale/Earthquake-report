@@ -4,7 +4,7 @@ Description;
 
 This app displays a list of recent earthquakes in the world from the U.S. Geological Survey (USGS) organization. User can apply filter to select the minimum magnitude level and sort the results based on ‘Magnitude’ or ‘Most Recent’
 
-What i learnt from the course / project:
+What i learnt from the course and applied in the project:
 
 JSON Parsing and APIs
 HTTP Networking
