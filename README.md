@@ -20,4 +20,9 @@ Fragments
 Constructing desired URL from base URL
 Used in a Udacity course in the Beginning Android Nanodegree (Networking).
 
+
+Kindly find below a screen shot of how the app looks like
+
+![screenshot_2018-10-12-20-58-21](https://user-images.githubusercontent.com/38193029/46891443-cfe76c80-ce61-11e8-8d5a-6be640e09cca.png)
+
 More info on the USGS Earthquake API available at: http://earthquake.usgs.gov/fdsnws/event/1/
