@@ -17,8 +17,7 @@ ProgressBar,
 Checking Network Connection State – No internet message & no data message,
 Preferences,
 Fragments,
-Constructing desired URL from base URL,
-Used in a Udacity course in the Beginning Android Nanodegree (Networking).
+Constructing desired URL from base URL.
 
 
 You can download the app here;https://drive.google.com/drive/u/0/folders/1Z2ezj3jOadJRp9T4eP7Jvxma-k02btqD
