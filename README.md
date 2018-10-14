@@ -6,19 +6,24 @@ This app displays a list of recent earthquakes in the world from the U.S. Geolog
 
 What i learnt from the course and applied in the project:
 
-JSON Parsing and APIs
-HTTP Networking
-Exceptions and Logging
-Threads and Parallelism
-AsyncTask.
-Generics
-Loaders
-ProgressBar
-Checking Network Connection State – No internet message & no data message
-Preferences
-Fragments
-Constructing desired URL from base URL
+JSON Parsing and APIs,
+HTTP Networking,
+Exceptions and Logging,
+Threads and Parallelism,
+AsyncTask,
+Generics,
+Loaders,
+ProgressBar,
+Checking Network Connection State – No internet message & no data message,
+Preferences,
+Fragments,
+Constructing desired URL from base URL,
 Used in a Udacity course in the Beginning Android Nanodegree (Networking).
+
+
+You can download the app here;https://drive.google.com/drive/u/0/folders/1Z2ezj3jOadJRp9T4eP7Jvxma-k02btqD
+
+Thank you
 
 
 Kindly find below a screen shot of how the app looks like
